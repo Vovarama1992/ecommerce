@@ -1,0 +1,5 @@
+export const SESSION_TAG = 'session'
+export const SHOP_TAG = 'shop'
+export const CONNECTION_TAG = 'connection'
+export const CONNECTIONS_TAG = 'connections'
+export const WILDBERRIES_STOCKS_TAG = 'wildberriesStocks'
